@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+@font-face {
+    font-family: Thinking;
+    src: url(Thinking.ttf);
+}
+
+.Button {
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: Thinking;
+}
+
+.top_p {
+    font-size: 70px;
+    color: #000000;
+    font-family: Thinking;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.X {
+    font-size: 50px;
+    color: #000000;
+    font-family: Thinking;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
